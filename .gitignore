@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated videos and model files
+detected_cctv.mp4
+yolo26n.pt
+
+# Generated demonstration images
+news_images/
+
+# Local editor files
+.DS_Store
+.vscode/
